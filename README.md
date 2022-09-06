@@ -1,1 +1,1 @@
-# project
+This project will display my ability to recreate a website using various elements of HTML, CSS, and flex.
