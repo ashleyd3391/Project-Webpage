@@ -91,6 +91,7 @@ ul {
     justify-content: center;
     align-items: center;
     justify-content: space-around;
+
     
 
 }
@@ -128,4 +129,41 @@ ul {
     margin-top: 0px;
     justify-content: center;
     align-items: center;
+}
+
+.container3 {
+    display: flex;
+    background-color: #E5E7Eb;
+    margin-top: 50px;
+    padding: 0px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 190px;
+    justify-items: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight:lighter;
+    justify-content: center;
+    color: #1f2937;
+    background-color: #3882F6;
+    padding: 10px;
+    margin-left: 330px;
+    margin-right: -330px;
+
+    height: 200px;
+    width:auto
+}
+
+.author {
+    display: flex;
+    background-color: greenyellow;
+    margin-top: 180px;
+    margin-right: 200px;
+    padding: 10px;
+    width: 700px
+
+    
 }
