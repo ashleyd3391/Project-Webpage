@@ -30,10 +30,51 @@ ul {
     
     }
 
+
+.img {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin-right: 200px;
+    margin-left: 700px;
+    margin-top: -450px;
+}
+
 .awe {
     display: flex;
     margin-left: 200px;
     margin-right: 700px;
     margin-top: 100px;
-    font-size: 28px;
+    font-size: 23px;
+    flex-wrap: wrap;
+    margin-bottom: -50px; 
+}
+
+.subtext {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 800px;
+    padding-top: -300px;
+}
+
+.sign-up {
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    background-color: #3882F6;
+    margin-right: 1120px;
+    margin-left: 200px;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 200px;
+}
+
+.random {
+    display: flex;
+    background-color: white;
+    color:black;
+    padding: 250px;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
 }
