@@ -73,8 +73,8 @@ ul {
     display: flex;
     background-color: white;
     color:black;
-    padding: 250px;
+    padding: 40px;
+    align-items: flex-start;
     justify-content: center;
-    align-items:center;
-    text-align: center;
+    padding-bottom: 350px;
 }
