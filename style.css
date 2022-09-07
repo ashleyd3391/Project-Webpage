@@ -78,3 +78,9 @@ ul {
     justify-content: center;
     padding-bottom: 350px;
 }
+
+.box {
+display: flex;
+background-color: aqua;
+    
+}
