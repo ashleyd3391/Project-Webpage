@@ -36,14 +36,15 @@ ul {
     justify-content: left;
     padding: 10px;
     margin-right: 200px;
-    margin-left: 700px;
+    margin-left: 800px;
     margin-top: -450px;
+    padding-bottom: 100px;
 }
 
 .awe {
     display: flex;
     margin-left: 200px;
-    margin-right: 700px;
+    margin-right: 800px;
     margin-top: 100px;
     font-size: 23px;
     flex-wrap: wrap;
@@ -62,16 +63,17 @@ ul {
     font-size: 16px;
     justify-content: center;
     background-color: #3882F6;
-    margin-right: 1120px;
+    margin-right: 1100px;
     margin-left: 200px;
     padding: 8px;
     border-radius: 10px;
     margin-bottom: 200px;
+    
 }
 
 .random {
     display: flex;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color:black;
     padding: 40px;
     align-items: flex-start;
@@ -134,9 +136,9 @@ ul {
 .container3 {
     display: flex;
     background-color: #E5E7Eb;
-    margin-top: 50px;
+    margin-top: 30px;
     padding: 0px;
-    padding-top: 60px;
+    padding-top: 10px;
     padding-bottom: 60px;
     padding-right: 190px;
     justify-items: center;
@@ -146,7 +148,7 @@ ul {
 .quote {
     font-size: 36px;
     justify-content: center;
-    font-weight:100;
+    font-weight:lighter;
     color: #1f2937;
     padding: 10px;
     margin-left: 380px;
@@ -158,10 +160,69 @@ ul {
 .author {
     display: flex;
     font-size: 23px;
-    margin-top: 300px;
+    margin-top: 350px;
     margin-right: 150px;
     margin-left: 150px;
     padding: 0px;
     width: 1000px;
     color: #1f2937
+}
+
+.container4 {
+    display: flex;
+    padding: 100px;
+    background-color: white;
+}
+
+.bluebox {
+    display: flex;
+    background-color: #3882F6;
+    margin-left: 100px;
+    padding-right: 30px;
+    justify-content: left;
+    flex-direction: column;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.actionbox {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 23px;
+    width: 500px;
+    margin-left: 130px;
+}
+
+.signb {
+    display: flex;
+    margin-top: -25px;
+    width: 500px;
+    margin-left: 130px;
+}
+
+.signup {
+    display: flex;
+    width: 140px;
+    justify-content: center;
+    padding: 3px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: -90px;
+    margin-right: 100px;
+
+}
+
+.copy {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    align-items: center;
+    font-size: 16px;
 }
