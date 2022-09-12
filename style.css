@@ -145,25 +145,23 @@ ul {
 
 .quote {
     font-size: 36px;
-    font-weight:lighter;
     justify-content: center;
+    font-weight:100;
     color: #1f2937;
-    background-color: #3882F6;
     padding: 10px;
-    margin-left: 330px;
-    margin-right: -330px;
-
+    margin-left: 380px;
+    margin-right: -450px;
     height: 200px;
     width:auto
 }
 
 .author {
     display: flex;
-    background-color: greenyellow;
-    margin-top: 180px;
-    margin-right: 200px;
-    padding: 10px;
-    width: 700px
-
-    
+    font-size: 23px;
+    margin-top: 300px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding: 0px;
+    width: 1000px;
+    color: #1f2937
 }
